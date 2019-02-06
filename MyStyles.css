@@ -1,0 +1,27 @@
+
+       h6 {
+            color:magenta;
+            text-align:center;
+            }
+
+        p {color:blue;}
+        div{
+            background-color:teal;
+            width:50%;
+            height:40px;
+            margin:30px;
+            padding:20px;
+            border: solid black;
+            border:50px
+            <!--border-radius: 40px;-->
+   }
+
+#divBottom
+    {
+    font-size:50px
+    }
+
+.Blueclass
+    {
+    font-weight:bold;
+    }
